@@ -1,0 +1,107 @@
+{
+	"ret":true,
+	"data":{
+		"city":"北京",
+		"iconList":[{
+			"id":"0001",
+			"imgUrl":"http://img1.qunarzz.com/piao/fusion/1803/95/f3dd6c383aeb3b02.png",
+			"imgAlt":"景点门票"
+		},{
+			"id":"0002",
+			"imgUrl":"http://img1.qunarzz.com/piao/fusion/1803/95/8246f27355943202.png",
+			"imgAlt":"游乐场"
+		},{
+			"id":"0003",
+			"imgUrl":"http://img1.qunarzz.com/piao/fusion/1803/b1/528a9e80403b8c02.png",
+			"imgAlt":"玩转长隆"
+		},{
+			"id":"0004",
+			"imgUrl":"http://img1.qunarzz.com/piao/fusion/1803/80/416c6ab3368d1f02.png",
+			"imgAlt":"全部玩乐"
+		},{
+			"id":"0005",
+			"imgUrl":"http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20193/a40ee278d67000f2a29d2e20f6a029b3.png",
+			"imgAlt":"自然风光"
+		},{
+			"id":"0006",
+			"imgUrl":"http://img1.qunarzz.com/piao/fusion/1803/95/8246f27355943202.png",
+			"imgAlt":"游乐场"
+		},{
+			"id":"0007",
+			"imgUrl":"http://img1.qunarzz.com/piao/fusion/1803/b1/528a9e80403b8c02.png",
+			"imgAlt":"玩转长隆"
+		},{
+			"id":"0008",
+			"imgUrl":"http://img1.qunarzz.com/piao/fusion/1803/80/416c6ab3368d1f02.png",
+			"imgAlt":"全部玩乐"
+		},
+		{
+			"id":"0009",
+			"imgUrl":"http://img1.qunarzz.com/piao/fusion/1803/b1/528a9e80403b8c02.png",
+			"imgAlt":"玩转长隆"
+		},{
+			"id":"0010",
+			"imgUrl":"http://img1.qunarzz.com/piao/fusion/1803/80/416c6ab3368d1f02.png",
+			"imgAlt":"全部玩乐"
+		}],
+		"recommendList":[{
+			"id": "0001",
+	        "imgUrl": "http://img1.qunarzz.com/sight/p0/1511/be/be92297f68b40be390.water.jpg_200x200_6e04dcf5.jpg",
+	        "title": "莲花山温泉度假村",
+	        "desc": "浪漫大连首站，浪漫的海洋主题乐园浪漫大连首站，浪漫的海洋主题乐园浪漫大连首站，浪漫的海洋主题乐园浪漫大连首站，浪漫的海洋主题乐园"
+		},{
+			"id": "0002",
+	        "imgUrl": "http://img1.qunarzz.com/sight/p0/1606/e4/e4544b34d663f938e2.water.jpg_200x200_ba6f8253.jpg",
+	        "title": "梦之湖水都",
+	        "desc": "浪漫大连首站，浪漫的海洋主题乐园"
+		},{
+			"id": "0003",
+	        "imgUrl": "http://img1.qunarzz.com/sight/p0/1602/77/773582b52f423ca290.img.jpg_200x200_bcef24a3.jpg",
+	        "title": "金寿生态园",
+	        "desc": "浪漫大连首站，浪漫的海洋主题乐园"
+		},{
+			"id": "0004",
+	        "imgUrl": "http://img1.qunarzz.com/sight/p0/1608/43/432d55ea426b973da3.water.jpg_200x200_3cd23613.jpg",
+	        "title": "汕头丹樱生态园",
+	        "desc": "浪漫大连首站，浪漫的海洋主题乐园"
+		}],
+		"swiperList":[{
+			"id":"0001",
+			"imgUrl":"https://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20193/44ac1072aff9770e9806bda743604e6b.jpg_890x330_98e20876.jpg",
+			"imgAlt":"鼎湖山踏青"
+		},{
+			"id":"0002",
+			"imgUrl":"https://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20192/8d11c8ae44b21f340bbdc00bfdb6a754.jpg_890x330_8d627799.jpg",
+			"imgAlt":"鼎湖山踏青"
+		},{
+			"id":"0003",
+			"imgUrl":"https://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20193/09f61cf63d5c9eb402a686440b885dc8.jpg_890x330_1acb9da5.jpg",
+			"imgAlt":"深圳欢乐谷0225"
+		},{
+			"id":"0004",
+			"imgUrl":"https://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20193/260744eac0571bf83d5866d1da5c558a.jpg_890x330_095171fc.jpg",
+			"imgAlt":"七星岩景区"
+		}],	
+		"weekendList":[{
+			"id": "0001",
+	        "imgUrl": "http://img1.qunarzz.com/sight/source/1811/15/66f14e0fd6fbb.jpg_r_640x214_5d69f21d.jpg",
+	        "title": "清远周边逛",
+	        "desc": "人人都有一双发现美的眼睛，身边的事物最熟悉不过，那你可曾发现了被人遗漏的美？"
+		},{
+			"id": "0002",
+	        "imgUrl": "http://img1.qunarzz.com/sight/source/1811/b8/5d599bbdcf8b57.jpg_r_640x214_2ee055e3.jpg",
+	        "title": "浮在海上的绿洲",
+	        "desc": "南国滨海之城，避寒胜地，有暖暖的阳光，海风习习，吃着海鲜逛逛老街多惬意啊"
+		},{
+			"id": "0003",
+	        "imgUrl": "http://img1.qunarzz.com/sight/source/1811/f8/29dfa785277839.jpg_r_640x214_7d051523.jpg",
+	        "title": "阳江温泉知多少",
+	        "desc": "这里的天空和大海让人心旷神怡，配上舒缓的优美音乐，泡个暖暖的温泉岂不美哉"
+		},{
+			"id": "0004",
+	        "imgUrl": "http://img1.qunarzz.com/sight/source/1505/bc/7aefc32e7f855a.jpg_r_640x214_f88989f3.jpg",
+	        "title": "汕头必游TOP5",
+	        "desc": "海滨邹鲁，美食之乡"
+		}]
+	}
+}
